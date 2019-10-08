@@ -1,0 +1,56 @@
+{
+  "name": "pathstage-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@sweetalert/with-react": "^0.1.1",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.2.1",
+    "classnames": "^2.2.6",
+    "connected-react-router": "^6.2.2",
+    "font-awesome": "^4.7.0",
+    "google-map-react": "^1.1.2",
+    "history": "^4.7.2",
+    "prop-types": "^15.6.2",
+    "prop-types-extra": "^1.1.0",
+    "react": "^16.7.0",
+    "react-axios": "^2.0.3",
+    "react-bootstrap": "^0.32.4",
+    "react-bootstrap-modal": "^4.2.0",
+    "react-bootstrap-sweetalert": "^4.4.1",
+    "react-dom": "^16.7.0",
+    "react-fontawesome": "^1.6.1",
+    "react-images-upload": "^1.2.6",
+    "react-redux": "^6.0.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "2.1.2",
+    "react-select": "^2.2.0",
+    "react-sidebar": "^3.0.2",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.0.0",
+    "sweetalert": "^2.1.2",
+    "sweetalert-react": "^0.4.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1"
+  }
+}

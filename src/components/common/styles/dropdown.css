@@ -1,0 +1,112 @@
+.dropdown-item {
+    margin-left: 100px !important;
+    height: 10px;
+  }
+  .text-center {
+    margin-top: 10px;
+  }
+  .dropdown-input {
+    text-align: center;
+  }
+  .dropdown-ul {
+    list-style-type: none;
+    color: red;
+    background-color: red;
+  }
+  .css-1ep9fjw {
+    background: gray !important;
+    border: none;
+  }
+  .css-1wy0on6 {
+    background: gray !important;
+  }
+  .global-fish {
+    margin-left: 10px;
+    margin-top: 15px !important;
+  }
+  .input-group-addon {
+    border: none;
+  }
+  .globe-image {
+    margin-top: -5px;
+  }
+  .button-save {
+    background-color: #a6c838;
+    color: white;
+    box-shadow: 1px 1px 1px 1px #888888;
+  }
+  .button-trash {
+    background-color: #c85638;
+    color: white;
+    box-shadow: 1px 1px 1px 1px #888888;
+  }
+  .simple-input {
+    width: 70% !important;
+  }
+  .ticket-input {
+    width: 100% !important;
+  }
+  .full-width {
+    width: 100% !important;
+  }
+  .custom-checkbox-default {
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 2px;
+    padding-bottom: 0px;
+  }
+  .default-checkbox-field {
+    height: 20px;
+    width: 20px;
+    margin-top: 5px;
+  }
+  .default-checkbox-label {
+    margin-left: 10px;
+    margin-top: 1px;
+    font: 12px arial, sans-serif;
+  }
+  .background-style {
+    background-color: white;
+    margin-top: -4px;
+    margin-bottom: -4px;
+  }
+  textarea {
+    resize: none;
+  }
+  .water-name-area {
+    width: 100%;
+    margin-right: -50px;
+  }
+  .source-name-area {
+    width: 30%;
+  }
+  .mt {
+    margin-top: 30px;
+  }
+  .mt-1 {
+    margin-top: 1px;
+  }
+  .mt-5 {
+    margin-top: 8px;
+  }
+  .mt-50 {
+    margin-top: 50px;
+  }
+  input[type="checkbox"],
+  input[type="radio"] {
+    vertical-align: middle;
+    margin-top: -1px !important;
+    position: relative;
+  }
+  .img-circle {
+    background-color: gray;
+    height: 50px;
+    width: 50px;
+  }
+  .upload-image {
+    margin-top: 14px;
+  }
+  .dropdown-small{
+    height:10px !important;
+  }
